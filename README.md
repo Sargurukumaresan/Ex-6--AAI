@@ -1,7 +1,7 @@
-<H4>SARGURU K</H4>
-<H4>212222230134</H4>
-<H4>EX. NO.6</H4>
-<H4>DATE: </H4>
+<H3> NAME: SARGURU K </H3>
+<H3> REGISTER NUMBER: 212222230134 </H3>
+<H3>EXPERIMENT NO: 06 </H3>
+<H3>DATE:  </H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## Aim: 
